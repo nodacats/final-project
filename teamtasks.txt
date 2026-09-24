@@ -1,7 +1,7 @@
 ASSIGNMENT 4 - GROUP TASKS
 
 Fabian Santana - Create repository, organize folders, and push changes. [COMPLETED]
-Name: __________ - Create and configure the seven-line .gitignore file.
+Ash Gilbert - Create and configure the seven-line .gitignore file.
 Name: __________ - Create GitHub project board with four required columns.
 Name: __________ - Create project tasks and assign group members.
 Name: __________ - Update README with project description and instructions.
