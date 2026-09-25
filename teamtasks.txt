@@ -4,5 +4,4 @@ Fabian Santana - Create repository, organize folders, and push changes. [COMPLET
 Ash Gilbert - Create and configure the seven-line .gitignore file.
 Abdul Rehman - Create GitHub project board with four required columns.
 Krish Ahir - Create project tasks and assign group members.
-Chris Paxtor - Update README with project description and instructions.
-Mustafa Kazmi - Review project, create final-project.txt, and prepare final ZIP. 
+Mustafa Kazmi - Update README, review project, create final-project.txt, and prepare final ZIP. 
